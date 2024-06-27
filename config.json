@@ -1,0 +1,7 @@
+{
+    "TOKEN": "ваш_токен_бота",
+    "SERVERS_FILE_TEMPLATE": "servers_{chat_id}.json",
+    "DEFAULT_SERVER": {
+        "1": {"name": "(название сервера)", "address": "айпи:порт"}
+    }
+}

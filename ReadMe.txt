@@ -16,5 +16,7 @@ apt update
 apt install pip
 git clone https://github.com/Fiks228/Code-Status-TG-BOT.git
 cd Code-Status-TG-BOT
-
+nano config.json (потом редактируйте конфиг и сохраняете)
+python main.py
+Готово
 

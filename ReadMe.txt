@@ -10,3 +10,11 @@
 
 Создатель кода: https://t.me/fiks_official
 Мой проект: https://CooIAnarchy.t.me
+
+Установка кода:
+apt update
+apt install pip
+git clone https://github.com/Fiks228/Code-Status-TG-BOT.git
+cd Code-Status-TG-BOT
+
+

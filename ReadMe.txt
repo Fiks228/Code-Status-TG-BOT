@@ -8,8 +8,8 @@
 
 УДАЧИ В НАСТРОЙКЕ БОТА!
 
-Создатель кода: https://t.me/fiks_official
-Мой проект: https://CooIAnarchy.t.me
+Создатель кода: https://t.me/fiks_dev
+Мой проект: https://CoolAnarchyy.t.me
 
 Установка кода:
 apt update
